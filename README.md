@@ -1,10 +1,12 @@
-# Desafío Soft Jobs - Fullstack
+# Desafío Soft Jobs - Frontend
 
-Este proyecto es la entrega final del desafío de autenticación.
+Esta es la interfaz de usuario desarrollada en React para el desafío de autenticación.
 
-### Enlaces del Proyecto:
-* **Repositorio Backend:** [Este repositorio actual]
-* **Repositorio Frontend:** https://github.com/Norelviz/soft-jobs-frontend
+### Repositorios del Proyecto:
+* **Frontend:** [Este repositorio actual]
+* **Backend (API y Servidor):** https://github.com/Norelviz/soft-jobs-backend
 
-### Tecnologías:
-* Node.js, Express, PostgreSQL, JWT y React.
+### Cómo ejecutar:
+1. clonar el repositorio.
+2. ejecutar `npm install`.
+3. ejecutar `npm run dev`.
